@@ -1,0 +1,18 @@
+{
+  "sidebar": [
+    {
+      "type": "category",
+      "label": "Documentation",
+      "items": [
+        {
+          "label": "Commands",
+          "href": "docs/api-commands"
+        }
+      ]
+    },
+    {
+      "label": "Contributing",
+      "href": "CONTRIBUTING"
+    }
+  ]
+}
