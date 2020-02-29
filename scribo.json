@@ -1,0 +1,15 @@
+{
+  "name": "Scribo",
+  "teamId": "scribo",
+  "theme": {
+    "primaryColor": "#6190EA",
+    "headerFontColor": "#fff"
+  },
+  "docs": [
+    {
+      "name": "Scribo API",
+      "description": "Scribo REST API",
+      "slug": "scribo-api"
+    }
+  ]
+}
