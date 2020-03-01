@@ -2,6 +2,7 @@
   "name": "Scribo",
   "teamId": "scribo",
   "theme": {
+    "logoImg": "logo.png",
     "primaryColor": "#6190EA",
     "headerFontColor": "#fff"
   },
