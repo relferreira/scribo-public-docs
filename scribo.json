@@ -2,6 +2,8 @@
   "name": "Scribo",
   "teamId": "scribo",
   "logoImg": "logo.png",
+  "bannerTitle": "Developer Hub",
+  "bannerDescription": "Welcome to Scribo developer hub.",
   "theme": {
     "primaryColor": "#6190EA",
     "headerFontColor": "#fff"
