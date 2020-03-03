@@ -5,7 +5,7 @@
   "bannerTitle": "Developer Hub",
   "bannerDescription": "Welcome to Scribo developer hub.",
   "theme": {
-    "primaryColor": "#6190EA",
+    "primaryColor": "#111a2b",
     "headerFontColor": "#fff"
   },
   "menus": [
