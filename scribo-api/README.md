@@ -2,7 +2,7 @@ Docusaurus was designed from the ground up to be easily installed and used to ge
 
 > **Important Note:** If you are setting up a new Docusaurus website for a Facebook Open Source project, we highly encourage you to use [Docusaurus 2](https://v2.docusaurus.io) instead.
 
-Link to [API](api-commands)
+Link to [API](scribo-api/api-commands)
 
 ## Installing Docusaurus
 
