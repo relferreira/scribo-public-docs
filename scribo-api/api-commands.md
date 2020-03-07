@@ -1,8 +1,3 @@
----
-id: commands
-title: CLI Commands
----
-
 Docusaurus provides a set of scripts to help you generate, serve, and deploy your website. These scripts can be invoked with the `run` command when using Yarn or npm. Some common commands are:
 
 - [`yarn run start`](api-commands.md#docusaurus-start-port-number): build and serve the website from a local server
