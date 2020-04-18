@@ -23,6 +23,12 @@
       "name": "Scribo API",
       "description": "Scribo REST API",
       "href": "scribo-api"
+    },
+    {
+      "name": "Scribo Private Doc",
+      "description": "Scribo Private Doc",
+      "href": "https://github.com/relferreira/scribo-docs",
+      "private": true
     }
   ]
 }
