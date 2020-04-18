@@ -3,7 +3,7 @@ Docusaurus provides a set of scripts to help you generate, serve, and deploy you
 - [`yarn run start`](api-commands.md#docusaurus-start-port-number): build and serve the website from a local server
 - [`yarn run examples`](api-commands.md#docusaurus-examples): create example configuration files
 
-## Running from the command line
+## Running from the command line2
 
 The scripts can be run using either Yarn or npm. If you've already gone through our Getting Started guide, you may already be familiar with the `start` command. It's the command that tells Docusaurus to run the `docusaurus-start` script which generates the site and starts up a server, and it's usually invoked like so:
 
