@@ -27,8 +27,9 @@
     {
       "name": "Scribo Private Doc",
       "description": "Scribo Private Doc",
-      "href": "https://github.com/relferreira/scribo-docs",
-      "private": true
+      "private": true,
+      "href": "scribo-docs",
+      "repo": "https://github.com/relferreira/scribo-docs"
     }
   ]
 }
