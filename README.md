@@ -1,3 +1,3 @@
 # scribo-public-docs
 
-Template repository 4
+Template repository 5
