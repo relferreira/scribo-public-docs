@@ -2,8 +2,6 @@
 
 ![Getting Started](/tutorial/getting-started.png)
 
-<hr />
-
 To start using Scribo, you only need to complete five easy steps:
 
 ## Sign-in
@@ -42,3 +40,4 @@ To finish the process, make some changes to the README.md file and commit to Git
 
 You can now visit [https://SLUG.scribo.dev](https://SLUG.scribo.dev) and see your documentation website up and running. In the next sections, we will explore all the functionalities of the Scribo platform.
 
+![Documentation Website](/tutorial/doc-website.png)
