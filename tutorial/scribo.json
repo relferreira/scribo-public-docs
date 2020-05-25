@@ -8,6 +8,14 @@
         {
           "label": "Configuration",
           "href": "getting-started"
+        },
+        {
+          "label": "Updating",
+          "href": "updating"
+        },
+        {
+          "label": "Theming",
+          "href": "theming"
         }
       ]
     }
