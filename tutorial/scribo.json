@@ -1,0 +1,15 @@
+{
+  "specificationUrl": "scribo-api/openapi.json",
+  "sidebar": [
+    {
+      "type": "category",
+      "label": "Getting Started",
+      "items": [
+        {
+          "label": "Configuration",
+          "href": "getting-started"
+        }
+      ]
+    }
+  ]
+}

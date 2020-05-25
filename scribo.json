@@ -20,6 +20,11 @@
   ],
   "docs": [
     {
+      "name": "Tutorial",
+      "description": "Gettting Started with Scribo Platform",
+      "href": "tutorial"
+    },
+    {
       "name": "Scribo API",
       "description": "Scribo REST API",
       "href": "scribo-api"
