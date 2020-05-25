@@ -1,6 +1,6 @@
 # Getting Started
 
-![Getting Started](../assets/tutorial/getting-started.svg)
+![Getting Started](/tutorial/getting-started.svg)
 
 <hr />
 
@@ -18,7 +18,7 @@ First, you will need to create a new account at [https://scribo.dev/](https://sc
 
 Fill up your team's information. The slug field is really important since it will be used as an alias to your documentation page. For example, a slug with the value `acme` will result in a `acme.scribo.dev` website.
 
-![Team Information](../assets/tutorial/team.png)
+![Team Information](/tutorial/team.png)
 
 
 ## Clone Example Repository
