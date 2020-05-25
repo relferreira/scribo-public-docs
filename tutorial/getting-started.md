@@ -1,6 +1,6 @@
 # Getting Started
 
-![Getting Started](/tutorial/getting-started.svg)
+![Getting Started](/tutorial/getting-started.png)
 
 <hr />
 
