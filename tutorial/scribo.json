@@ -16,6 +16,70 @@
         {
           "label": "Theming",
           "href": "theming"
+        },
+        {
+          "label": "Docs",
+          "href": "docs"
+        }
+      ]
+    },
+    {
+      "type": "writting",
+      "label": "Writting",
+      "items": [
+        {
+          "label": "Sidebar",
+          "href": "sidebar"
+        },
+        {
+          "label": "Formatting Text",
+          "href": "formatting-text"
+        }
+      ]
+    },
+    {
+      "type": "api",
+      "label": "API Specifications",
+      "items": [
+        {
+          "label": "Overview",
+          "href": "api-overview"
+        },
+        {
+          "label": "OpenAPI/Swagger",
+          "href": "api-format"
+        }
+      ]
+    },
+    {
+      "type": "versions",
+      "label": "Versions",
+      "items": [
+        {
+          "label": "Best Practices",
+          "href": "version-best-practices"
+        },
+        {
+          "label": "Development",
+          "href": "version-development"
+        }
+      ]
+    },
+    {
+      "type": "private-docs",
+      "label": "Private Docs",
+      "items": [
+        {
+          "label": "Repositories",
+          "href": "repositories"
+        },
+        {
+          "label": "Inviting users",
+          "href": "inviting-users"
+        },
+        {
+          "label": "Permissions",
+          "href": "permissions"
         }
       ]
     }
