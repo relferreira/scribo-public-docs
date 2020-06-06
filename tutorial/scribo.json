@@ -20,20 +20,14 @@
         {
           "label": "Docs",
           "href": "docs"
-        }
-      ]
-    },
-    {
-      "type": "category",
-      "label": "Writting",
-      "items": [
+        },
+        {
+          "label": "Folders",
+          "href": "folders"
+        },
         {
           "label": "Sidebar",
           "href": "sidebar"
-        },
-        {
-          "label": "Formatting Text",
-          "href": "formatting-text"
         }
       ]
     },
