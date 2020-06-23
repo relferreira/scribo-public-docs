@@ -24,11 +24,6 @@
       "href": "tutorial"
     },
     {
-      "name": "Scribo API",
-      "description": "Scribo REST API",
-      "href": "scribo-api"
-    },
-    {
       "name": "Scribo Private Doc",
       "description": "Scribo Private Doc",
       "private": true,
