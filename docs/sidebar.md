@@ -1,6 +1,6 @@
 # Sidebar
 
-![Sidebar Construtor](/tutorial/sidebar.png)
+![Sidebar Construtor](assets/sidebar.png)
 
 Every Documentation has a `scribo.json` file where you can configure many options. One of them is how the sidebar will be presented. This json has a property called `sidebar`, that is an array of items with the following properties:
 

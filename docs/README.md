@@ -1,6 +1,6 @@
 # Scribo
 
-![Docs](/tutorial/getting-started-home.png)
+![Docs](assets/getting-started-home.png)
 
 Scribo is a platform that helps teams publish and manage technical documentation. We know that documenting is hard, so we would like to simplify this process.
 
@@ -20,7 +20,7 @@ Having many pages of documents doesn't matter if you can't find what you need. Y
 
 ## How it works
 
-![Sync Diagram](/tutorial/sync.png)
+![Sync Diagram](assets/sync.png)
 
 As said before, Scribo pulls all docs directly and automatically from GitHub. Just:
 

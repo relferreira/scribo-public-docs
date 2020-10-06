@@ -1,6 +1,6 @@
 # Folders
 
-![Folder](/tutorial/folder.png)
+![Folder](assets/folder.png)
 
 Each folder inside the public repository correspond to a group of documentations. You can organize your files the way you want, and you have full control of what content you want to be visible or not.
 

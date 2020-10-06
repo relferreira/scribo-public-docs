@@ -1,6 +1,6 @@
 # Documentation
 
-![<Markdown Rules>](/tutorial/markdown.png)
+![<Markdown Rules>](assets/markdown.png)
 
 Scribo uses Markdown files to store your documentation. All functionallities should work as expect, but you should follow some instructions to take the most out of the platform.
 

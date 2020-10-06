@@ -1,6 +1,6 @@
 # Getting Started
 
-![Getting Started](/tutorial/getting-started.png)
+![Getting Started](assets/getting-started.png)
 
 To start using Scribo, you only need to complete five easy steps:
 
@@ -16,13 +16,11 @@ First, you will need to create a new account at [https://scribo.dev/](https://sc
 
 Fill up your team's information. The slug field is really important since it will be used as an alias to your documentation page. For example, a slug with the value `acme` will result in a `acme.scribo.dev` website.
 
-![Team Information](/tutorial/team.png)
-
+![Team Information](assets/team.png)
 
 ## Clone Example Repository
 
 Clone our template repository to start a new documentation page for your team. In the next sections, we will explain the project structure and all the rules. We designed it in a way that anybody could start a page with the minimum effort possible, but with a system powerful enough to offer many customizations.
-
 
 ## Public Repository
 
@@ -40,4 +38,4 @@ To finish the process, make some changes to the README.md file and commit to Git
 
 You can now visit [https://SLUG.scribo.dev](https://SLUG.scribo.dev) and see your documentation website up and running. In the next sections, we will explore all the functionalities of the Scribo platform.
 
-![Documentation Website](/tutorial/doc-website.png)
+![Documentation Website](assets/doc-website.png)

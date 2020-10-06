@@ -1,8 +1,9 @@
 # Theming
 
-![Changing Doc Themes](/tutorial/themming.png)
+![Changing Doc Themes](assets/themming.png)
 
 Every Scribo compactible repository should have a `scribo.json` file. It is responsible for defining many configurations, like:
+
 - Name (name)
 - Logo Image (logoImg)
 - Banner Title (bannerTitle)
@@ -16,7 +17,7 @@ Like the name implies, represents the image that will be positioned in the heade
 
 ## Banner
 
-Banner is a section of the Header only visible in the Home Page of the documentation webpage. This section contains a title and a description. 
+Banner is a section of the Header only visible in the Home Page of the documentation webpage. This section contains a title and a description.
 
 We recommend you to make a breaf description of the documentations presented in the page
 
@@ -64,4 +65,3 @@ Every Menu item should have:
 }
 
 ```
-
