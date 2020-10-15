@@ -1,4 +1,4 @@
-# Scribo Platform
+# Scribo Dev
 
 ![Docs](assets/getting-started-home.png)
 
