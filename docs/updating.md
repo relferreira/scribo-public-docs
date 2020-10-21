@@ -19,10 +19,10 @@ If you are a developer, you can use all the tools that you are already familiar 
 
 But you can use any IDE/Code editor of your preference.
 
-![VSCode](assets/vscode.png)
+![VSCode](assets/vscode.jpg)
 
 ## For Non-Developers
 
 GitHub Platform offers an excellent file/markdown editor. If you wish, you can edit all your documentations inside GitHub, making it easy to update your Scribo Documentation Webpage.
 
-![GitHub Editor](assets/github.png)
+![GitHub Editor](assets/github.jpg)

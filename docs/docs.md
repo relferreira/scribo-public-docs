@@ -11,10 +11,8 @@ All images should be placed in the `assets` folder. You can organize your files 
 To reference an image on you document, just use the following syntax:
 
 ```
-![<IMAGE ALT>](/<IMAGE.PNG>)
+![<IMAGE ALT>](assets/<IMAGE.PNG>)
 ```
-
-Notice that is not necessary to informe the `assets` folder in the path.
 
 ## Links
 
