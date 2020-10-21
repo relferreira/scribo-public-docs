@@ -36,7 +36,7 @@ With our app installed, you will be able to select all the repositories that it 
 
 We recommend that you [download our template](https://github.com/scribo-dev/scribo-public-docs/archive/master.zip) and paste the content on the root of your project.
 
-From there you can follow [configuration section](/config) to start customizing your documentations.
+From there you can follow [configuration section](config) to start customizing your documentations.
 
 To finish the process commit the changes to GitHub. This step is necessary to make sure our GitHub App has synchronized the newly created repository.
 

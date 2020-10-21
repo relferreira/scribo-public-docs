@@ -6,8 +6,12 @@
       "label": "Getting Started",
       "items": [
         {
-          "label": "Configuration",
+          "label": "New Team",
           "href": "getting-started"
+        },
+        {
+          "label": "Configuration",
+          "href": "config"
         },
         {
           "label": "Updating",
@@ -16,10 +20,6 @@
         {
           "label": "Docs",
           "href": "docs"
-        },
-        {
-          "label": "Sidebar",
-          "href": "sidebar"
         }
       ]
     },
@@ -34,38 +34,6 @@
         {
           "label": "OpenAPI/Swagger",
           "href": "api-format"
-        }
-      ]
-    },
-    {
-      "type": "category",
-      "label": "Versions",
-      "items": [
-        {
-          "label": "Best Practices",
-          "href": "version-best-practices"
-        },
-        {
-          "label": "Development",
-          "href": "version-development"
-        }
-      ]
-    },
-    {
-      "type": "category",
-      "label": "Private Docs",
-      "items": [
-        {
-          "label": "Repositories",
-          "href": "repositories"
-        },
-        {
-          "label": "Inviting users",
-          "href": "inviting-users"
-        },
-        {
-          "label": "Permissions",
-          "href": "permissions"
         }
       ]
     }
