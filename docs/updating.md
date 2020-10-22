@@ -26,3 +26,9 @@ But you can use any IDE/Code editor of your preference.
 GitHub Platform offers an excellent file/markdown editor. If you wish, you can edit all your documentations inside GitHub, making it easy to update your Scribo Documentation Webpage.
 
 ![GitHub Editor](assets/github.jpg)
+
+## Sync
+
+All documentations are static generated. That means that your website will be extremally fast. One downside is that we use many cache techniques, so even if our GitHub app has synced with your commit, please wait at least 5 minutes.
+
+If you are having trouble with the sync process, please contact us!
