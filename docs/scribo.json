@@ -20,6 +20,10 @@
         {
           "label": "Docs",
           "href": "docs"
+        },
+        {
+          "label": "Versioning",
+          "href": "versions"
         }
       ]
     },
