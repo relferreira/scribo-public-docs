@@ -14,13 +14,12 @@ Fill up your team's information.
 
 ![Team Information](assets/team-form.jpg)
 
-1) Team name
-2) Team slug: used as an alias to your documentation page. For example, a slug with the value `acme` will result in a `scribo.dev/acme` website.
-3) Primary color: the main color of your scribo website
-4) Header Font color: color of the text in the header section of all docs
-5) Banner Title
-6) Banner Description
-7) Logo Image (optional)
+1. Team slug: used as an alias to your documentation page. For example, a slug with the value `acme` will result in a `scribo.dev/acme` website.
+2. Primary color: the main color of your scribo website
+3. Header Font color: color of the text in the header section of all docs
+4. Banner Title
+5. Banner Description
+6. Logo Image (optional)
 
 ## Install our GitHub App
 
