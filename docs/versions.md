@@ -1,6 +1,6 @@
 # Versioning
 
-![Version Control](assets/version_control.svg)
+![Version Control](assets/version_control.png)
 
 You can manage multiple versions of your documentation by associating a branch to a given version name in our dashboard repository page.
 
